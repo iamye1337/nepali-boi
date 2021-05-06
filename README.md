@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nepali-boi
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning R
+- 📫 dikesh.shrestha.010@gmail.com
