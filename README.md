@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @nepali-boi
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning R
-- 📫 dikesh.shrestha.010@gmail.com
+    Hi, I’m Dikesh.
+    🌱 Learning to code
+    📫 dikesh.shrestha.010@gmail.com
